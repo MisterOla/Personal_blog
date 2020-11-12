@@ -1,5 +1,1 @@
-# Welcome to my personal blog where I share some of my projects. Feel free to share your feedbacks on my works with me. Thanks!
-
-##-Past projects
-##-Ongoing projects
-##-other projects
+# Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/lamideogundeji/). Your feedback on my projects will also be greatly appreciated. Explore!
