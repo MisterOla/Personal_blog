@@ -2,9 +2,15 @@
 
 ## Areas of interest: 
   > **Applied Chemical and Process Engineering (Manufacturing, Quality Assurance and Control, Process Improvement, Process Control, and Process Development)**
+  
   > **Computing Technologies (Machine Learning, Data Analytics, Computer Programming)**
+  
   > **Business**
+  
   > **Economics**
+  
   > **Society**
+  
   > **Writing**
+  
 
