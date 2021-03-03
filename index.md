@@ -1,16 +1,27 @@
-# Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/lamideogundeji/). Your feedback on any of my projects, and this page, will also be greatly appreciated. Explore!
+<div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
 
-## Areas of interest: 
-  > -**Applied Chemical and Process Engineering (Manufacturing, Quality Assurance and Control, Process Improvement, Process Control, and Process Development)**
+Areas of interest: 
+<ul>
+ <li>Applied Chemical and Process Engineering (Manufacturing, Quality Assurance and Control, Process Improvement, Process Control, and Process Development)<li/>
   
-  > -**Computing Technologies (Machine Learning, Data Analytics, Computer Programming)**
+  <li>Computing Technologies (Machine Learning, Data Analytics, Computer Programming)<li/>
   
-  > -**Business**
+  <li>Business<li/>
   
-  > -**Economics**
+  <li>Economics<li/>
   
-  > -**Society**
+  <li>Society<li>
   
-  > -**Writing**
-  
+  <li>Writing<li/>
+ <ul/>
 
+
+Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/lamideogundeji/). Your feedback on any of my projects, and this page, will also be greatly appreciated. Explore!
